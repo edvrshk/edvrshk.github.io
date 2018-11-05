@@ -1,0 +1,27 @@
+
+body {
+  padding: 0 20px;
+	background: #f1c5db;
+  font-size: 16px;
+  font-family: "Montserrat";
+}
+
+h1 {
+  color: #1d5ac4;
+  text-shadow: 2px 2px 0 #aaaaaa;
+}
+
+pre {
+  padding: 10px;
+
+  font-size: 14px;
+  line-height: 20px;
+
+  background-color: #679e60;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+}
+
+em {
+  color: #618ad2;
+}
